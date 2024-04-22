@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-dotnettools.csdevkit",
+    "editorconfig.editorconfig",
+    "github.copilot",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "csharpier.csharpier-vscode",
+    "ms-vsliveshare.vsliveshare",
+    "oderwat.indent-rainbow",
+    "usernamehw.errorlens"
+  ]
+}
